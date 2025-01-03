@@ -1,0 +1,1 @@
+echo "# JavaPattern" >> README.md
